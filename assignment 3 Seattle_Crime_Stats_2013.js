@@ -1,6 +1,4 @@
-ting crime status data file
-1 contributor
-RawBlameHistory     2998 lines (2998 sloc)  75.1 KB
+
 var crime_stats = [[1,"E","Robbery",3],
 [1,"E","Larceny-Theft",30],
 [1,"E","Motor Vehicle Theft",11],
